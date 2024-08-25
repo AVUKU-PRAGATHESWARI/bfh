@@ -56,9 +56,9 @@ app.get('/bfhl', (req, res) => {
   
     res.status(200).json({
       is_success: true,
-      user_id: "AvukuPragatheswari17042004", // Replace with your actual details
-      email: "pragatheswari2004@gmail.com",    // Replace with your actual email
-      roll_number: "12106068r",      // Replace with your actual roll number
+      user_id: "RachamalluHimaAswitha25082003", // Replace with your actual details
+      email: "aswitha.21bce9891@vitapstudent.ac.in",    // Replace with your actual email
+      roll_number: "21BCE9891",      // Replace with your actual roll number
       numbers,
       alphabets,
       highest_lowercase_alphabet: highestLowercase ? [highestLowercase] : []
